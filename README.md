@@ -1,5 +1,5 @@
 # io.jipiboily.com
 
-Site web de l'io.
+Ceci prend en charge la redireciotn de io.jipiboily.com => saglac.io
 
-Ce n'est qu'un site web statique bien simple et pas très beau. Pull requests bienvenues! :)
+Ce que vous cherchez possiblement, soit le repo de saglac.io: https://github.com/jipiboily/saglac.io
