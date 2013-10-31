@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.5.2)
+    rack-rewrite (1.4.01)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack (~> 1.5.2)
+  rack-rewrite (~> 1.4.01)
